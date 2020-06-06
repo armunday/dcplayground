@@ -978,3 +978,8 @@ blockquote p {
 .gobutton {
   background-color: #c0f1b4;
 }
+
+.amboimg {
+  max-width: 35%;
+  height: auto;
+}
